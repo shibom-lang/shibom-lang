@@ -4,6 +4,12 @@
 
 <br/>
 
+<a href="https://github.com/shibom-lang">
+  <img src="https://raw.githubusercontent.com/shibom-lang/shibom-lang/main/avatar.png" width="130" height="130" alt="Shibom Das" />
+</a>
+
+<br/><br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F0FF&background=0F111700&center=true&vCenter=true&width=650&lines=Quantitative+Analyst+%7C+Financial+Engineering;Machine+Learning+%26+Predictive+Risk+Pipelines;Modern+Portfolio+Theory+%26+Systematic+Trading;Physics+Graduate+Applying+Math+to+Markets" alt="Typing SVG" />
 </a>
@@ -66,13 +72,14 @@ Publications: 100+ research-driven articles on fintech, algorithmic systems, and
 ### 📊 Live GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibom-lang&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shibom-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shibom-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=shibom-lang&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibom-lang&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibom-lang&theme=tokyo-night&hide_border=true&area=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shibom-lang&layout=compact&theme=tokyonight&hide_border=true" width="58%" />
 </div>
 
 ---
