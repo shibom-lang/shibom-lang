@@ -5,13 +5,13 @@
 <br/>
 
 <a href="https://github.com/shibom-lang">
-  <img src="https://raw.githubusercontent.com/shibom-lang/shibom-lang/main/avatar.png" width="130" height="130" alt="Shibom Das" />
+  <img src="https://raw.githubusercontent.com/shibom-lang/shibom-lang/main/avatar.png" width="135" height="135" alt="Shibom Das" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F0FF&background=0F111700&center=true&vCenter=true&width=650&lines=Quantitative+Analyst+%7C+Financial+Engineering;Machine+Learning+%26+Predictive+Risk+Pipelines;Modern+Portfolio+Theory+%26+Systematic+Trading;Physics+Graduate+Applying+Math+to+Markets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F0FF&background=0F111700&center=true&vCenter=true&width=680&lines=Quantitative+Analyst+%7C+Financial+Risk+Modeling;Machine+Learning+%26+Explainable+AI+(SHAP);Modern+Portfolio+Theory+%26+Systematic+Trading;Physics+Graduate+Applying+Math+to+Markets" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -21,20 +21,24 @@
   <img src="https://komarev.com/ghpvc/?username=shibom-lang&style=for-the-badge&color=00F0FF" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Quant%20%2F%20ML%20Roles-success?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/Location-Assam%2C%20India-blue?style=flat-square&logo=google-maps" />
+  <img src="https://img.shields.io/badge/Education-B.Sc.%20in%20Physics-blueviolet?style=flat-square&logo=academia" />
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary
 
-```yaml
-Name: Shibom Das
-Focus: Quantitative Analytics, Machine Learning & Financial Risk Modeling
-Education: B.Sc. in Physics — Arya Vidyapeeth College (Calculus, Linear Algebra, Statistical Mechanics)
-Core Philosophy: "Bridging mathematical physics with financial engineering to build production-grade, explainable ML systems."
-Current Open-Source: Maintainer of DSAI-GATE (curated syllabus & resources for GATE Data Science & AI)
-Publications: 100+ research-driven articles on fintech, algorithmic systems, and applied AI
-```
+> *"Bridging mathematical physics with financial engineering to construct high-throughput, explainable, and production-grade ML systems."*
+
+- 🔬 **Academic Background:** B.Sc. in Physics from **Arya Vidyapeeth College** with deep foundations in Multivariate Calculus, Linear Algebra, Differential Equations, and Statistical Mechanics.
+- 📈 **Quantitative Analytics:** Experienced in formulating **Modern Portfolio Theory (MPT)** optimization engines (SLSQP, Max-Sharpe, Min-Variance), Monte Carlo asset simulations, and value-at-risk modeling.
+- 🤖 **Applied Machine Learning:** Architected end-to-end predictive pipelines with **LightGBM**, **XGBoost**, and **Scikit-learn**, emphasizing real-time inference and **Explainable AI (SHAP)**.
+- 🌐 **Open Source & Research:** Author of 100+ research-backed articles on fintech & quantitative algorithms; active maintainer of **`DSAI-GATE`** (comprehensive open-source resource hub for GATE Data Science & AI).
 
 ---
 
@@ -48,28 +52,65 @@ Publications: 100+ research-driven articles on fintech, algorithmic systems, and
 
 <br/>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, SciPy), SQL, JavaScript (ES6+), HTML5/CSS3 |
-| **Quantitative & ML** | Scikit-learn, LightGBM, XGBoost, Statsmodels (ARIMA), TextBlob, SHAP, Modern Portfolio Theory (MPT), Monte Carlo |
-| **Visualization & Dashboards** | Plotly, Streamlit, Seaborn, Matplotlib, OpenPyXL, Microsoft Excel |
-| **Engineering & Cloud** | FastAPI, Flask, Node.js, Express, Docker, Git, GitHub Actions, Vercel, Railway |
+<div align="center">
+
+#### 🐍 Languages & Numerical Computing
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### 🤖 Machine Learning & Quantitative Modeling
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-008080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-154734?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-2F4F4F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP%20(XAI)-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monte%20Carlo-7928CA?style=for-the-badge&logoColor=white" />
+</p>
+
+#### 📊 Dashboards, Analytics & Reporting
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel%20Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+#### ⚙️ Engineering & Deployment Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+</div>
 
 ---
 
-### 🚀 Flagship Projects
+### 🚀 Flagship Engineering & Quantitative Projects
 
-| Project | Highlights & Stack | Key Metric / Value |
-| :--- | :--- | :--- |
-| **[Indian ETF Robo-Advisor & MPT Suite](https://github.com/shibom-lang/MPT-Indian-ETF-Optimization)** | `Python` `SciPy (SLSQP)` `yfinance` `Monte Carlo` `Vercel` | Engineered Modern Portfolio Theory engine across 9 Indian ETFs computing Max-Sharpe & Min-Volatility allocations under 45% single-asset constraints. Includes dynamic PDF reports. **[Live App](https://web-six-zeta-72.vercel.app)** |
-| **[IEEE-CIS Real-Time Fraud Detection](https://github.com/shibom-lang/Real-Time-Fraud-Detection-System)** | `LightGBM` `XGBoost` `SHAP` `Streamlit` `Plotly` | End-to-end fraud classifier handling high class imbalance. Built interactive Streamlit dashboard with local & global SHAP explainability. **0.9317 ROC-AUC** & **0.6487 PR-AUC**. |
-| **[Credit Risk Default Prediction](https://github.com/shibom-lang/credit-risk-model)** | `Scikit-learn` `Pandas` `NumPy` `Matplotlib` | Comprehensive loan default scoring pipeline with outlier winsorization and categorical encoding. Attained **97.2% recall** for credit loss minimization. |
-| **[Customer Churn & Risk Segmentation](https://github.com/shibom-lang/-ChurnAnalysis_Shibom-das)** | `Python` `Scikit-learn` `XGBoost` `Plotly` | Supervised customer attrition classifier with behavioral feature engineering; segments users into High/Medium/Low tiers to drive targeted retention campaigns. **0.840 ROC-AUC**. |
-| **[Product Review Sentiment Mining](https://github.com/shibom-lang/SentimentAnalysis_Shibom)** | `TextBlob` `NLP` `Seaborn` `EDA` | Evaluated 5,000 Amazon product reviews; identified critical rating-sentiment divergences and isolated complaint keywords to guide product quality interventions. |
+| Project | Core Stack | Key Impact & Benchmarks | Links |
+| :--- | :--- | :--- | :---: |
+| **Indian ETF Robo-Advisor & MPT Suite** | `Python` `SciPy (SLSQP)` `yfinance` `Monte Carlo` `Vercel` | Modern Portfolio Theory engine across 9 Indian ETFs computing Max-Sharpe & Min-Volatility allocations under 45% single-asset risk constraints; dynamic client PDF tear-sheets. | [**Live App**](https://web-six-zeta-72.vercel.app) • [**Repo**](https://github.com/shibom-lang/MPT-Indian-ETF-Optimization) |
+| **IEEE-CIS Real-Time Fraud Detection** | `LightGBM` `XGBoost` `SHAP` `Streamlit` `Plotly` | High-throughput fraud classification engine over 590K transactions with class imbalance mitigation and real-time local & global SHAP explainability. **0.9317 ROC-AUC** & **0.6487 PR-AUC**. | [**Repo**](https://github.com/shibom-lang/Real-Time-Fraud-Detection-System) |
+| **Credit Risk Default Prediction Engine** | `Scikit-learn` `Pandas` `NumPy` `Matplotlib` | Comprehensive loan default scoring pipeline with outlier winsorization and categorical encoding. Attained **97.2% recall** for credit loss minimization. | [**Repo**](https://github.com/shibom-lang/credit-risk-model) |
+| **Customer Churn & Risk Segmentation** | `Python` `Scikit-learn` `XGBoost` `Plotly` | Supervised customer attrition classifier with behavioral feature engineering; segments users into High/Medium/Low tiers to drive targeted retention campaigns. **0.840 ROC-AUC**. | [**Repo**](https://github.com/shibom-lang/-ChurnAnalysis_Shibom-das) |
+| **Revenue Forecasting & Time Series Suite** | `Python` `Statsmodels` `ARIMA` `Prophet` | Econometric time series forecasting pipeline decomposing financial seasonality, trends, and cyclical patterns for corporate revenue projections. | [**Repo**](https://github.com/shibom-lang/revenue_forecasting) |
+| **DSAI-GATE Curriculum Hub** | `Data Science` `Math & Probability` `AI` | Comprehensive open-source syllabus tracker, curated mathematics resources, and model papers for the national GATE Data Science & AI examination. | [**Repo**](https://github.com/shibom-lang/dsai-gate) |
 
 ---
 
-### 📊 Live GitHub Analytics
+### 📊 Live GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shibom-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -80,6 +121,12 @@ Publications: 100+ research-driven articles on fintech, algorithmic systems, and
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shibom-lang&layout=compact&theme=tokyonight&hide_border=true" width="58%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
 </div>
 
 ---
