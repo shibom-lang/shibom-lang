@@ -85,6 +85,8 @@
 
 #### ⚙️ Engineering & Deployment Infrastructure
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -101,7 +103,7 @@
 
 | Project | Core Stack | Key Impact & Benchmarks | Links |
 | :--- | :--- | :--- | :---: |
-| **Indian ETF Robo-Advisor & MPT Suite** | `Python` `SciPy (SLSQP)` `yfinance` `Monte Carlo` `Vercel` | Modern Portfolio Theory engine across 9 Indian ETFs computing Max-Sharpe & Min-Volatility allocations under 45% single-asset risk constraints; dynamic client PDF tear-sheets. | [**Live App**](https://web-six-zeta-72.vercel.app) • [**Repo**](https://github.com/shibom-lang/MPT-Indian-ETF-Optimization) |
+| **Indian ETF Robo-Advisor & MPT Suite (v4.0)** | `Python` `SciPy (SLSQP)` `Node.js` `Neon Postgres` `Financial Times UI` | Institutional Modern Portfolio Theory optimizer across 9 Indian ETFs. Features Financial Times editorial design, Option D whole-share execution math, Ledoit-Wolf shrinkage, and Neon Serverless PostgreSQL persistence. | [**Live App**](https://web-six-zeta-72.vercel.app) • [**Repo**](https://github.com/shibom-lang/MPT-Indian-ETF-Optimization) |
 | **IEEE-CIS Real-Time Fraud Detection** | `LightGBM` `XGBoost` `SHAP` `Streamlit` `Plotly` | High-throughput fraud classification engine over 590K transactions with class imbalance mitigation and real-time local & global SHAP explainability. **0.9317 ROC-AUC** & **0.6487 PR-AUC**. | [**Repo**](https://github.com/shibom-lang/Real-Time-Fraud-Detection-System) |
 | **Credit Risk Default Prediction Engine** | `Scikit-learn` `Pandas` `NumPy` `Matplotlib` | Comprehensive loan default scoring pipeline with outlier winsorization and categorical encoding. Attained **97.2% recall** for credit loss minimization. | [**Repo**](https://github.com/shibom-lang/credit-risk-model) |
 | **Customer Churn & Risk Segmentation** | `Python` `Scikit-learn` `XGBoost` `Plotly` | Supervised customer attrition classifier with behavioral feature engineering; segments users into High/Medium/Low tiers to drive targeted retention campaigns. **0.840 ROC-AUC**. | [**Repo**](https://github.com/shibom-lang/-ChurnAnalysis_Shibom-das) |
